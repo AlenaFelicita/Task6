@@ -1,0 +1,15 @@
+C:\Мои уроки\Hometask6\43\obj\Debug\net7.0\43.csproj.AssemblyReference.cache
+C:\Мои уроки\Hometask6\43\obj\Debug\net7.0\43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Мои уроки\Hometask6\43\obj\Debug\net7.0\43.AssemblyInfoInputs.cache
+C:\Мои уроки\Hometask6\43\obj\Debug\net7.0\43.AssemblyInfo.cs
+C:\Мои уроки\Hometask6\43\obj\Debug\net7.0\43.csproj.CoreCompileInputs.cache
+C:\Мои уроки\Hometask6\43\bin\Debug\net7.0\43.exe
+C:\Мои уроки\Hometask6\43\bin\Debug\net7.0\43.deps.json
+C:\Мои уроки\Hometask6\43\bin\Debug\net7.0\43.runtimeconfig.json
+C:\Мои уроки\Hometask6\43\bin\Debug\net7.0\43.dll
+C:\Мои уроки\Hometask6\43\bin\Debug\net7.0\43.pdb
+C:\Мои уроки\Hometask6\43\obj\Debug\net7.0\43.dll
+C:\Мои уроки\Hometask6\43\obj\Debug\net7.0\refint\43.dll
+C:\Мои уроки\Hometask6\43\obj\Debug\net7.0\43.pdb
+C:\Мои уроки\Hometask6\43\obj\Debug\net7.0\43.genruntimeconfig.cache
+C:\Мои уроки\Hometask6\43\obj\Debug\net7.0\ref\43.dll
