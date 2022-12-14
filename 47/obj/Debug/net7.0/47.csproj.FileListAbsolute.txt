@@ -1,0 +1,15 @@
+C:\g_b_test\Task7\47\bin\Debug\net7.0\47.exe
+C:\g_b_test\Task7\47\bin\Debug\net7.0\47.deps.json
+C:\g_b_test\Task7\47\bin\Debug\net7.0\47.runtimeconfig.json
+C:\g_b_test\Task7\47\bin\Debug\net7.0\47.dll
+C:\g_b_test\Task7\47\bin\Debug\net7.0\47.pdb
+C:\g_b_test\Task7\47\obj\Debug\net7.0\47.csproj.AssemblyReference.cache
+C:\g_b_test\Task7\47\obj\Debug\net7.0\47.GeneratedMSBuildEditorConfig.editorconfig
+C:\g_b_test\Task7\47\obj\Debug\net7.0\47.AssemblyInfoInputs.cache
+C:\g_b_test\Task7\47\obj\Debug\net7.0\47.AssemblyInfo.cs
+C:\g_b_test\Task7\47\obj\Debug\net7.0\47.csproj.CoreCompileInputs.cache
+C:\g_b_test\Task7\47\obj\Debug\net7.0\47.dll
+C:\g_b_test\Task7\47\obj\Debug\net7.0\refint\47.dll
+C:\g_b_test\Task7\47\obj\Debug\net7.0\47.pdb
+C:\g_b_test\Task7\47\obj\Debug\net7.0\47.genruntimeconfig.cache
+C:\g_b_test\Task7\47\obj\Debug\net7.0\ref\47.dll
